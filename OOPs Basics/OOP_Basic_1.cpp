@@ -36,5 +36,4 @@ int main(){
 
     cout<<"Hello, my name is: "<<p1.getName();
 
-
 }
